@@ -1,6 +1,6 @@
 import { normalizeConfig } from "next/dist/server/config"
 import Link from "next/link"
-import Search from "./search"
+import Search from "./Search"
 
 export default function Navbar() {
   return (
